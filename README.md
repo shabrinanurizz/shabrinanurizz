@@ -1,16 +1,33 @@
-## Hi there 👋
+# **Shabrina Nur Izzati**
 
-<!--
-**shabrinanurizz/shabrinanurizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 **About Me**
+I am an undergraduate student majoring in **Statistics and Data Science**, with a strong interest in **data analytics**, **statistical modeling**, and **business-oriented data applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with structured data, conducting exploratory analysis, and translating insights into clear, actionable findings. I am also actively involved in organizations and competitions related to statistics, research, and data science.
+
+---
+
+## 🎯 **Areas of Interest**
+- Data Analytics & Business Intelligence  
+- Machine Learning 
+- Statistical Modeling & Inference  
+- Data Visualization and Dashboard Development  
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Tools & Programming**
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
+- SQL (PostgreSQL, SQlite)  
+- Excel (Pivot Tables, Power Query, Data Cleaning)
+- Looker Studio
+
+---
+
+## 📫 **Contact**
+[LinkedIn](https://www.linkedin.com/in/shabrina-nur-izzati)
+ 
+---
