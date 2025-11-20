@@ -1,3 +1,7 @@
 STUDY PLAN
 - Review Python Basics
+  * Using real case Numpy
+  * Using Function
+  * Create Personal Library
+  * Looping
 - Machine Learning
