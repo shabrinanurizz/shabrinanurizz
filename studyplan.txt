@@ -1,2 +1,3 @@
 STUDY PLAN
 - Learn Git n Github
+- Review Python Basics
