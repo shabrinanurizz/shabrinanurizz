@@ -22,7 +22,7 @@ I enjoy working with structured data, conducting exploratory analysis, and trans
 ### **Tools & Programming**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
 - SQL (PostgreSQL, SQlite)  
-- Excel (Pivot Tables, Power Query, Data Cleaning)
+- Excel (Pivot Tables, Data Cleaning)
 - Looker Studio
 
 ---
