@@ -1,7 +1,3 @@
-# **Shabrina Nur Izzati**
-
----
-
 ## 📌 **About Me**
 I am an undergraduate student majoring in **Statistics and Data Science**, with a strong interest in **data analytics**, **statistical modeling**, and **business-oriented data applications**.
 
