@@ -54,6 +54,12 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="sql logo" />
   <img width="12" />
+  
+  <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" height="40" alt="DB Browser for SQLite logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/looker" height="40" alt="looker logo" />
+  <img width="12" />
 </div>
 
 ###
