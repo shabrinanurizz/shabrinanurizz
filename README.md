@@ -27,7 +27,7 @@
 <h3 data-importer="text" align="left">   About Me:</h3>
 
 <p align="left">
-🎓 Statistics and Data Science Undergraduate<br>
+🎓 Undergraduate Statistics and Data Science Student<br>
 📊 Passionate about Data Science, Machine Learning, and Statisctical Modelling<br>
 🔭 Building end-to-end machine learning projects, from data processing to model deployment<br>
 🚀 Aspiring Data Scientist and Machine Learning Engineer
