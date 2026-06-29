@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/shabrina-nur-izzati/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://medium.com/shabrinanurizz">
+    <a href="https://medium.com/@shabrinanurizz">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
     <a href="https://www.hackerrank.com/profile/shabrinanurizz">
