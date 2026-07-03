@@ -14,9 +14,6 @@
     </a>
     <a href="https://medium.com/@shabrinanurizz">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/shabrinanurizz">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
     </a> 
   </div>
 </div>
