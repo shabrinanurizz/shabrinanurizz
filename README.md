@@ -17,10 +17,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Shabrina Nur Izzati</h1>
-
-###
-
 <h3 data-importer="text" align="left">   About Me:</h3>
 
 <p align="left">
