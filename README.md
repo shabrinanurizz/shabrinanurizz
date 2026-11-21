@@ -61,15 +61,3 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shabrinanurizz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shabrinanurizz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shabrinanurizz&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="175" alt="Streak Stats" />
-</div>
